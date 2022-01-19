@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=200&section=header&fontColor=8FA3E5&text=🐟&%20&render&descAlignY=90&desc=٩(•̤̀ᵕ•̤́๑)૭✧디자인이능숙한초보개발자문우정입니다잘부탁드립니다(۶•̀ᴗ•́)۶&20capsule%20renderfontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=_hexcode&height=200&section=header&fontColor=8FA3E5&text=🐟&%20&render&descAlignY=90&desc=٩(•̤̀ᵕ•̤́๑)૭✧초보개발자문우정입니다잘부탁드립니다(۶•̀ᴗ•́)۶&20capsule%20renderfontSize=90)
 
 
    
